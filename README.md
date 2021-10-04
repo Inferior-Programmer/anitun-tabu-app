@@ -3,7 +3,7 @@ to install app must install the following python modules using pip.
 pip install dash==1.20.0
 
 pip install dash-leaflet==0.1.16
-
+dash-bootstrap-components==0.13.1
 pip install dash-extensions==0.0.58
 
 
