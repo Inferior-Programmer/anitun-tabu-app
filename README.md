@@ -1,7 +1,11 @@
 # anitun-tabu-app.
 to install app must install the following python modules using pip.
-dash
-dash_leaflet
+pip install dash==1.20.0
+
+pip install dash-leaflet==0.1.16
+
+pip install dash-extensions==0.0.58
+
 
 to run app simply run the python script 
 
