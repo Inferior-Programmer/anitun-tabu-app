@@ -11,10 +11,14 @@ pip install dash-extensions==0.0.58
 
 to run app simply run the python script 
 
-Features currently working are-
+Features currently working are
 1.Population Density
 2. Storm Minitoring
 3. Flood Flow Estimation
 4. Flood prone areas
 5. Coastline areas
+
+
+Project Demo Link:
+https://projectanituntabu.herokuapp.com/
 
